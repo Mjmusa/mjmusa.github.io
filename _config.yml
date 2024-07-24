@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Mishek Musa"
+  avatar           : MishekImage2_square.jpg
+  name             : "Mishek J Musa"
   pronouns         : # example: "she/her"  
   bio              : "mechanical engineer"
-  location         : "Earth"
+  location         : "Fayetteville, AR"
   employer         : "University of Arkansas"
   uri              : # URL
-  email            : "mishekmusa3a@gmail.com" 
+  email            : # "mishekmusa3a@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "academicpages"
+  github           : Mjmusa
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
