@@ -10,4 +10,10 @@ paperurl: 'https://link.springer.com/article/10.1007/s10439-022-02934-z'
 citation: 'Musa, M.J., Carpenter, A.B., Kellner, C. et al. Minimally Invasive Intracerebral Hemorrhage Evacuation: A review. Ann Biomed Eng 50, 365–386 (2022). https://doi.org/10.1007/s10439-022-02934-z'
 ---
 
+<img src="/images/ich_review_1.png" alt="image info" width="800" style="margin-right: 10px;"/>
+
+## Authors
+**Mishek Musa**, Austin Carpenter, Christopher Kellner, Dimitri Sigounas, Isuru Godage, Saikat Sengputa, Chima Oluigbo, Kevin Cleary, Yue Chen
+
+## Abstract
 Intracerebral hemorrhage is a leading cause of morbidity and mortality worldwide. To date, there is no specific treatment that clearly provides a benefit in functional outcome or mortality. Surgical treatment for hematoma evacuation has not yet shown clear benefit over medical management despite promising preclinical studies. Minimally invasive treatment options for hematoma evacuation are under investigation but remain in early-stage clinical trials. Robotics has the potential to improve treatment. In this paper, we review intracerebral hemorrhage pathology, currently available treatments, and potential robotic approaches to date. We also discuss the future role of robotics in stroke treatment.
