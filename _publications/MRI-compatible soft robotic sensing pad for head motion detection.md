@@ -10,7 +10,7 @@ paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9698999'
 citation: 'M. Musa, S. Sengupta and Y. Chen, "MRI-Compatible Soft Robotic Sensing Pad for Head Motion Detection," in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 3632-3639, April 2022, doi: 10.1109/LRA.2022.3147892.'
 ---
 
-<img src="/images/sensing_pad_1.gif" alt="image info" width="400" style="margin-right: 5px;"/><img src="/images/sensing_pad_4.png" alt="image info" width="350" style="margin-right: 10px;"/>
+<img src="/images/sensing_pad_1.gif" alt="image info" width="400" style="margin-right: 5px;"/><img src="/images/sensing_pad_4.PNG" alt="image info" width="350" style="margin-right: 10px;"/>
 
 ## Authors
 **Mishek Musa**, Saikat Sengupta, & Yue Chen

@@ -10,7 +10,7 @@ paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10098111'
 citation: 'Gunderman, A. L., Musa, M., Gunderman, B. O., Banovac, F., Cleary, K., Yang, X., & Chen, Y. (2023). Autonomous respiratory motion compensated robot for CT-guided abdominal radiofrequency ablations. IEEE Transactions on Medical Robotics and Bionics, 5(2), 206-217.'
 ---
 
-<img src="/images/ct_respiratory_comp_robot_1.gif" alt="image info" width="300" style="margin-right: 5px;"/><img src="/images/ct_respiratory_comp_robot_3.gif" alt="image info" width="150" style="margin-right: 10px;"/><img src="/images/ct_respiratory_comp_robot_2.png" alt="image info" width="300"/>
+<img src="/images/ct_respiratory_comp_robot_1.gif" alt="image info" width="300" style="margin-right: 5px;"/><img src="/images/ct_respiratory_comp_robot_3.gif" alt="image info" width="150" style="margin-right: 10px;"/><img src="/images/ct_respiratory_comp_robot_2.PNG" alt="image info" width="300"/>
 
 ## Authors
 Anthony Gunderman, **Mishek Musa**, Benjamin Gunderman, Filip Banovac, Kevin Cleary, Xiaofeng Yang, & Yue Chen
