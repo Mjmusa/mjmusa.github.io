@@ -1,11 +1,16 @@
 ---
 permalink: /
-title: "Currently under construction...check back soon!"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a highly motivated mechanical engineer with a passion for all things robotics related. I was born and raised in the small Central American and Caribbean country of Belize. There I completed my Associate's degree in Mathematics and Physics at St. John's College Junior College. I then transferred to the University of Arkansas and completed a BS in Mechanical Engineering with a minor in Mathematics in 2019. I then completed a Master's degree in Mechanical Engineering from the University of Arkansas in 2021 working in the [Medical Robotics Lab](https://sites.gatech.edu/labbm2/), with a research focus on the design and control of robotic medical devices for minimally invasive surgery, advised by [Dr. Yue Chen](https://research.gatech.edu/yue-chen). I am currently a PhD candidate in the Mechanical Engineering Department at the University of Arkansas, where I work as a graduate research assistant and teaching assistant in the [Micro-Nano Systems Engineering and Robotics Lab](https://lamnse.uark.edu/), advised by [Dr. Uche Wejinya](https://mechanical-engineering.uark.edu/Directory/index/uid/uwejinya/name/Uche+Wejinya/). 
+
+My research interests are primarily focused on automation, robotics, control system design, and mechatronic systems implementation.
+
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
