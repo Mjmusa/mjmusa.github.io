@@ -5,6 +5,7 @@ permalink: /publication/MR-conditional actuations
 excerpt: 'This comprehensive review examines various MR-conditional actuation methods for robotic devices used in MRI environments, including pneumatic, piezoelectric, hydraulic, and novel actuators, discussing their working principles, advantages, limitations, and applications to guide researchers and engineers in developing MRI-compatible robotic systems.'
 date: 2020-06-25
 venue: 'Annals of Biomedical Engineering'
+type: 'journal'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10620609/'
 citation: 'Xiao, Q., Monfaredi, R., Musa, M. et al. MR-Conditional Actuations: A Review. Ann Biomed Eng 48, 2707–2733 (2020). https://doi.org/10.1007/s10439-020-02597-8'

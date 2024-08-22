@@ -5,6 +5,7 @@ permalink: /publication/CT Respiratory Motion Compensated Robot
 excerpt: 'This article describes an autonomous robot system that compensates for respiratory motion during CT-guided abdominal radiofrequency ablations, utilizing a Stewart platform, a friction-driven insertion module, and a custom breath-sensing pad to improve needle placement accuracy in minimally-invasive cancer treatments.'
 date: 2023-04-10
 venue: 'IEEE Transactions on Medical Robotics and Bionics'
+type: 'journal'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10098111'
 citation: 'Gunderman, A. L., Musa, M., Gunderman, B. O., Banovac, F., Cleary, K., Yang, X., & Chen, Y. (2023). Autonomous respiratory motion compensated robot for CT-guided abdominal radiofrequency ablations. IEEE Transactions on Medical Robotics and Bionics, 5(2), 206-217.'

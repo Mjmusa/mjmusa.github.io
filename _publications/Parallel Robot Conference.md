@@ -5,6 +5,7 @@ permalink: /publication/Parallel Robot Conference
 excerpt: 'This article presents the design, analysis, and characterization of a 6-degree-of-freedom parallel robot for MRI-guided interventions, featuring pneumatic cylinder actuators and demonstrating accuracy in both benchtop and MRI scanner environments for potential applications in motion modeling and minimally invasive procedures'
 date: 2021-11-17
 venue: '2021 International Symposium on Medical Robotics (ISMR)'
+type: 'conference'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9661513'
 citation: 'M. Musa, S. Sengupta and Y. Chen, "Design of a 6 DoF Parallel Robot for MRI-guided Interventions," 2021 International Symposium on Medical Robotics (ISMR), Atlanta, GA, USA, 2021, pp. 1-7, doi: 10.1109/ISMR48346.2021.9661513.'

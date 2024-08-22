@@ -5,6 +5,7 @@ permalink: /publication/ICH Review
 excerpt: 'This article reviews intracerebral hemorrhage pathology, current treatments, and potential robotic approaches for minimally invasive hematoma evacuation, highlighting the lack of clear benefits from existing surgical interventions and the potential for robotics to improve treatment outcomes.'
 date: 2022-04-01
 venue: 'Annals of Biomedical Engineering'
+type: 'journal'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://link.springer.com/article/10.1007/s10439-022-02934-z'
 citation: 'Musa, M.J., Carpenter, A.B., Kellner, C. et al. Minimally Invasive Intracerebral Hemorrhage Evacuation: A review. Ann Biomed Eng 50, 365–386 (2022). https://doi.org/10.1007/s10439-022-02934-z'

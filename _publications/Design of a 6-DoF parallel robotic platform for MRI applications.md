@@ -5,6 +5,7 @@ permalink: /publication/Parallel Robot Journal
 excerpt: 'This article presents the design, analysis, and characterization of a 6-degree-of-freedom parallel robotic platform for magnetic resonance imaging (MRI) applications, demonstrating its potential to enable accurate motions in the MRI environment for tasks such as motion modeling and minimally invasive procedures.'
 date: 2022-06-27
 venue: 'Journal of Medical Robotics Research'
+type: 'journal'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10445425/'
 citation: 'Musa, Mishek, Saikat Sengupta, and Yue Chen. "Design of a 6-DoF parallel robotic platform for MRI applications." Journal of Medical Robotics Research 7.02n03 (2022): 2241005.'

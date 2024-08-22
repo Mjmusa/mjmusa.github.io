@@ -5,6 +5,7 @@ permalink: /publication/Respiratory Compensated Robot
 excerpt: 'The article describes the design, fabrication, and benchtop testing of a patient-mounted robotic system that compensates for respiratory motion during needle insertion procedures for liver cancer treatment, particularly radiofrequency ablation (RFA) for hepatocellular carcinoma (HCC)'
 date: 2021-03-02
 venue: 'IEEE/ASME Transactions on Mechatronics'
+type: 'journal'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9366945'
 citation: 'M. J. Musa, K. Sharma, K. Cleary and Y. Chen, "Respiratory Compensated Robot for Liver Cancer Treatment: Design, Fabrication, and Benchtop Characterization," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 1, pp. 268-279, Feb. 2022, doi: 10.1109/TMECH.2021.3062984.'
 ---

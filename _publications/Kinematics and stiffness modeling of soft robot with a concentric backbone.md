@@ -5,6 +5,7 @@ permalink: /publication/Soft Robot with a Concentric Backbone
 excerpt: 'This study proposes a novel stiffness modulation approach for soft robots by incorporating a slidable Nitinol tube backbone, inspired by concentric tube robots, which allows for on-demand control of the robot stiffness and pose without permanently altering its intrinsic compliance.'
 date: 2023-10-01
 venue: 'Journal of Mechanisms and Robotics'
+type: 'journal'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://asmedigitalcollection.asme.org/mechanismsrobotics/article/15/5/051011/1147243'
 citation: Xiao, Q., Musa, M., Godage, I. S., Su, H., & Chen, Y. (2023). Kinematics and stiffness modeling of soft robot with a concentric backbone. Journal of Mechanisms and Robotics, 15(5), 051011.

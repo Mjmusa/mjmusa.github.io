@@ -5,6 +5,7 @@ permalink: /publication/Soft Robotic Sensing Pad
 excerpt: 'The article presents the design, fabrication, and evaluation of a novel pneumatic-based MRI-compatible soft sensing pad intended for head motion detection'
 date: 2022-02-01
 venue: 'IEEE Robotics and Automation Letters'
+type: 'journal'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9698999'
 citation: 'M. Musa, S. Sengupta and Y. Chen, "MRI-Compatible Soft Robotic Sensing Pad for Head Motion Detection," in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 3632-3639, April 2022, doi: 10.1109/LRA.2022.3147892.'
