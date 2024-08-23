@@ -7,9 +7,46 @@ redirect_from:
   - /about.html
 ---
 
-I am a highly motivated mechanical engineer with a passion for all things robotics related. I was born and raised in the small Central American and Caribbean country of Belize. There I completed my Associate's degree in Mathematics and Physics at St. John's College Junior College. I then transferred to the University of Arkansas and completed a BS in Mechanical Engineering with a minor in Mathematics in 2019. I then completed a Master's degree in Mechanical Engineering from the University of Arkansas in 2021 working in the [Medical Robotics Lab](https://sites.gatech.edu/labbm2/), with a research focus on the design and control of robotic medical devices for minimally invasive surgery, advised by [Dr. Yue Chen](https://research.gatech.edu/yue-chen). I am currently a PhD candidate in the Mechanical Engineering Department at the University of Arkansas, where I work as a graduate research assistant and teaching assistant in the [Micro-Nano Systems Engineering and Robotics Lab](https://lamnse.uark.edu/), advised by [Dr. Uche Wejinya](https://mechanical-engineering.uark.edu/Directory/index/uid/uwejinya/name/Uche+Wejinya/). 
+I am a highly motivated mechanical engineer with a deep passion for robotics. I earned my Bachelor's degree in Mechanical Engineering, along with a minor in Mathematics, from the University of Arkansas in 2019. Following that, I completed a Master's degree in Mechanical Engineering at the same institution in 2021, where I focused my research on the design and control of robotic medical devices for minimally invasive surgery in the [Medical Robotics Lab](https://sites.gatech.edu/labbm2/), under the guidance of [Dr. Yue Chen](https://research.gatech.edu/yue-chen). The lab has since relocated to Georgia Tech. Currently, I am pursuing a PhD in Mechanical Engineering at the University of Arkansas, where I serve as a graduate research assistant and teaching assistant in the [Micro-Nano Systems Engineering and Robotics Lab](https://lamnse.uark.edu/), under the mentorship of [Dr. Uche Wejinya](https://mechanical-engineering.uark.edu/Directory/index/uid/uwejinya/name/Uche+Wejinya/).
 
-My research interests are primarily focused on automation, robotics, control system design, and mechatronic systems implementation.
+My research interests are primarily focused on **automation, robotics, control system design, and mechatronic systems implementation.**
+<br><br>
+
+# Engineering Experience
+<table style="border-collapse: collapse; border: none;">
+  <tbody>
+    <tr>
+      <td style="border: none;"><img src="/images/UA_Logo.png" alt="nu" width="80"></td>
+      <td style="border: none;"><strong>Micro-Nano Systems Engineering Robotics Lab</strong> <br> 01/2022 - present <br> Graduate Research & Teaching Assistant</td>
+      <td style="border: none;"><img src="/images/stokes_robotics_logo.jpeg" alt="j&j" width="80"></td>
+      <td style="border: none;"><strong>Stokes Robotics</strong> <br> 05/2024 - 08/2024 <br> Robotics Engineering Intern</td>
+    </tr>
+    <tr>
+        <td style="border: none;"><img src="/images/UA_Logo.png" alt="nu" width="80"></td>
+      <td style="border: none;"><strong>Medical Robotics Lab</strong> <br> 05/2019 - 12/2021 <br> Graduate Research & Teaching Assistant</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- <br>
+# Education
+<table style="border-collapse: collapse; border: none;">
+  <tbody>
+    <tr>
+      <td style="border: none; padding-right: 0px;"><img src="/images/UA_Logo.png" alt="nu" width="80"></td>
+      <td style="border: none; padding: 0;"><strong>University of Arkansas</strong> <br> 01/2022 - present <br> PhD in Mechanical Engineering</td>
+    </tr>
+    <tr>
+        <td style="border: none; padding-right: 0px;"><img src="/images/UA_Logo.png" alt="nu" width="80"></td>
+      <td style="border: none; padding: 0"><strong>University of Arkansas</strong> <br> 05/2019 - 12/2021 <br> MS in Mechanical Engineering</td>
+    </tr>
+    <tr>
+        <td style="border: none; padding-right: 0px;"><img src="/images/UA_Logo.png" alt="nu" width="80"></td>
+      <td style="border: none; padding: 0"><strong>University of Arkansas</strong> <br> 05/2019 - 12/2021 <br> BS in Mechanical Engineering, Minor in Mathematics</td>
+    </tr>
+  </tbody>
+</table> -->
+
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
