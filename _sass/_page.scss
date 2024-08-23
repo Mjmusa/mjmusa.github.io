@@ -401,3 +401,48 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.portfolio-link {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  text-align: center;
+}
+
+.portfolio-image {
+  display: block;
+  transition: 0.5s ease;
+}
+
+.portfolio-link::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Dark overlay */
+  opacity: 0;
+  transition: 0.5s ease;
+}
+
+.portfolio-link:hover::before {
+  opacity: 1;
+}
+
+.portfolio-link::after {
+  content: "View Project";
+  color: white;
+  font-size: 1.5em;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: 0.5s ease;
+  z-index: 1;
+}
+
+.portfolio-link:hover::after {
+  opacity: 1;
+}
