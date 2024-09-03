@@ -2,7 +2,7 @@
 title: "Liver Cancer Treatment Robot"
 excerpt: "Matlab, C++, CAD, 3D Printing<br/><a href='liver cancer robot' class='portfolio-link'><img src='/images/ct_respiratory_comp_robot_2.PNG' width='600'></a>"
 collection: portfolio
-order: 002
+order: 3
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 title: "Control of a PVDF-based Microactuator"
-excerpt: "Matlab, Python, Machine Learning<br/><a href='microactuator' class='portfolio-link'><img src='/images/Microactuator.PNG' height='100'></a>"
+excerpt: "Matlab, Python, Machine Learning<br/><a href='microactuator' class='portfolio-link'><img src='/images/Microactuator2.PNG' height='100'></a>"
 collection: portfolio
-order: 004
+order: 5
 ---
 
 

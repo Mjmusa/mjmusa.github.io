@@ -2,7 +2,7 @@
 title: "Surface Reconstruction from Multi-View Images"
 excerpt: "Deep Learning, NeuS, NeRF<br/><a href='neus' class='portfolio-link'><img src='/images/Hog_Vid3.gif' width='600'></a>"
 collection: portfolio
-order: 7
+order: 8
 ---
 
 

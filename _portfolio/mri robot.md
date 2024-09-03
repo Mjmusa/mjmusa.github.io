@@ -2,7 +2,7 @@
 title: "MRI Compatible Parallel Robot"
 excerpt: "Matlab, C++, CAD, 3D Printing<br/><a href='mri robot' class='portfolio-link'><img src='/images/parallel_bot_conf_2.gif' width='500'></a>"
 collection: portfolio
-order: 003
+order: 4
 ---
 
 

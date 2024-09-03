@@ -28,6 +28,23 @@ My research interests are primarily focused on **automation, robotics, control s
   </tbody>
 </table>
 
+
+<br>
+
+# Skills
+### Software: 
+Windows (OS), Linux (OS), Matlab & Simulink, Robot Operating System (ROS/ROS2), Gazebo, RViz, LabView, Git, Microsoft Office Suite, Blender, GIMP
+### Programming: 
+Python, C++, LATEX, HTML5, Arduino, Raspberry Pi, NVIDIA Jetson Nano
+### Frameworks: 
+Pytorch, Tensorflow, Scikit-Learn, OpenCV, PyBullet, MoveIt!
+### CAD:
+Solidworks, Autodesk Fusion 360, Autodesk Inventor, OnShape, EAGLE
+### Manufacturing:
+Additive Manufacturing (FDM, SLA, and SLS 3D printing), Milling (CNC and Manual), Lathe (Manual), Hand Tools, Power Tools, Soft Robot Fabrication, Laser Cutting, PCB design
+### Langauge:
+English (fluent), Belizean Creole (fluent), Spanish (conversational)
+
 <!-- <br>
 # Education
 <table style="border-collapse: collapse; border: none;">

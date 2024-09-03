@@ -1,8 +1,8 @@
 ---
 title: "Soft Robot Kinematic and Stiffness Modeling"
-excerpt: "Matlab, CAD, ROS<br/><a href='soft robot' class='portfolio-link'><img src='/images/soft_bot_2.png' height='100'></a>"
+excerpt: "Matlab, CAD, ROS<br/><a href='soft robot' class='portfolio-link'><img src='/images/soft_bot_3.png' height='100'></a>"
 collection: portfolio
-order: 5
+order: 6
 ---
 
 
