@@ -45,6 +45,11 @@ Additive Manufacturing (FDM, SLA, and SLS 3D printing), Milling (CNC and Manual)
 ### Langauge:
 English (fluent), Belizean Creole (fluent), Spanish (conversational)
 
+<br>
+
+# Contact
+Feel free to send me an email (`mishekmusa3a [at] gmail [dot] com`) or message me on LinkedIn.
+
 <!-- <br>
 # Education
 <table style="border-collapse: collapse; border: none;">
