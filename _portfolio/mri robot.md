@@ -10,7 +10,7 @@ order: 4
 
 <img src="/images/parallel_bot_conf_1.gif" alt="image info" width="400" style="margin-right: 5px;"/><img src="/images/parallel_bot_conf_2.gif" alt="image info" width="350" style="margin-right: 10px;"/>
 
-### Working on updates check back soon!
+<!-- ### Working on updates check back soon! -->
 
 ### Published Works:
 

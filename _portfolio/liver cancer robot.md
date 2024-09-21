@@ -10,7 +10,7 @@ order: 3
 
 <img src="/images/respiratory_comp_robot_1.gif" alt="image info" width="400" style="margin-right: 5px;"/><img src="/images/respiratory_comp_robot_2.gif" alt="image info" width="300" style="margin-right: 10px;"/>
 
-### Working on updates check back soon!
+<!-- ### Working on updates check back soon! -->
 
 ### Published Works:
 

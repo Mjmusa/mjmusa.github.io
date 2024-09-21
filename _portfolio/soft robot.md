@@ -10,7 +10,7 @@ order: 6
 
 <img src="/images/soft_bot_1.png" alt="image info" width="400" style="margin-right: 20px;"/><img src="/images/soft_bot_2.png" alt="image info" width="250" style="margin-right: 5px;"/>
 
-### Working on updates check back soon!
+<!-- ### Working on updates check back soon! -->
 
 This work recently received an Honorable Mention for the 2023 Journal of Mechanisms and Robotics Best Paper Award!
 

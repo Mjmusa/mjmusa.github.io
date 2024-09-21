@@ -10,4 +10,4 @@ order: 10
 
 My final project for the 2022 Arkansas Summer Research Institute (ASRI) invesitgated machine learning techniques for classifying materials from the 3D DFT dataset of the Joint Automated Repository for Various Integrated Simulations (JARVIS). Techniques such as random forest classifiers, gradient boosting trees, and neural networks were used to classify over 5000 materials into their crystalline structures based on features such as formation energy, bandgap, density, and others.
 
-### Working on updates check back soon!
+<!-- ### Working on updates check back soon! -->

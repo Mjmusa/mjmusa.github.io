@@ -10,7 +10,7 @@ order: 7
 
 <img src="/images/sensing_pad_1.gif" alt="image info" width="400" style="margin-right: 5px;"/><img src="/images/sensing_pad_4.PNG" alt="image info" width="350" style="margin-right: 10px;"/>
 
-### Working on updates check back soon!
+<!-- ### Working on updates check back soon! -->
 
 ### Published Works:
 

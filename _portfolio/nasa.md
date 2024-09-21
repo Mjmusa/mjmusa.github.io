@@ -10,4 +10,4 @@ order: 11
 
 For my senior design project, I served as the lead mechanical engineer for the excavation subsystem of the University of Arkansas NASA Robotics Mining Competition Team, Razorbotz. The goal of the project is to design and build a robot capable of excavating resources in a simulated Martian environment.
 
-### Working on updates check back soon!
+<!-- ### Working on updates check back soon! -->

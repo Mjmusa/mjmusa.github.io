@@ -33,9 +33,9 @@ My research interests are primarily focused on **automation, robotics, control s
 
 # Skills
 ### Software: 
-Windows (OS), Linux (OS), Matlab & Simulink, Robot Operating System (ROS/ROS2), Gazebo, RViz, LabView, Git, Microsoft Office Suite, Blender, GIMP
+Windows (OS), Linux (OS), Git, Microsoft Office Suite, Blender, GIMP
 ### Programming: 
-Python, C++, LATEX, HTML5, Arduino, Raspberry Pi, NVIDIA Jetson Nano
+Python, C++, Matlab & Simulink, Robot Operating System (ROS/ROS2), Arduino, Raspberry Pi, NVIDIA Jetson Boards, OpenPLC, LabView, LaTeX
 ### Frameworks: 
 Pytorch, Tensorflow, Scikit-Learn, OpenCV, PyBullet, MoveIt!
 ### CAD:
@@ -48,7 +48,7 @@ English (fluent), Belizean Creole (fluent), Spanish (conversational)
 <br>
 
 # Contact
-Feel free to send me an email (`mishekmusa3a [at] gmail [dot] com`) or message me on LinkedIn.
+Feel free to send me an email (`mishekmusa3a [at] gmail [dot] com`) or message me on [LinkedIn](https://www.linkedin.com/in/mishekmusa/).
 
 <!-- <br>
 # Education
