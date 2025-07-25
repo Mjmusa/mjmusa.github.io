@@ -7,26 +7,61 @@ redirect_from:
   - /about.html
 ---
 
-I am a highly motivated mechanical engineer with a deep passion for robotics. I earned my Bachelor's degree in Mechanical Engineering, along with a minor in Mathematics, from the University of Arkansas in 2019. Following that, I completed a Master's degree in Mechanical Engineering at the same institution in 2021, where I focused my research on the design and control of robotic medical devices for minimally invasive surgery in the [Medical Robotics Lab](https://sites.gatech.edu/labbm2/), under the guidance of [Dr. Yue Chen](https://research.gatech.edu/yue-chen). The lab has since relocated to Georgia Tech. Currently, I am pursuing a PhD in Mechanical Engineering at the University of Arkansas, where I serve as a graduate research assistant and teaching assistant in the [Micro-Nano Systems Engineering and Robotics Lab](https://lamnse.uark.edu/), under the mentorship of [Dr. Uche Wejinya](https://mechanical-engineering.uark.edu/Directory/index/uid/uwejinya/name/Uche+Wejinya/).
+<!-- I am a highly motivated mechanical engineer with a deep passion for robotics. I earned my Bachelor's degree in Mechanical Engineering, along with a minor in Mathematics, from the University of Arkansas in 2019. Following that, I completed a Master's degree in Mechanical Engineering at the same institution in 2021, where I focused my research on the design and control of robotic medical devices for minimally invasive surgery in the [Medical Robotics Lab](https://sites.gatech.edu/labbm2/), under the guidance of [Dr. Yue Chen](https://research.gatech.edu/yue-chen). The lab has since relocated to Georgia Tech. Currently, I am pursuing a PhD in Mechanical Engineering at the University of Arkansas, where I serve as a graduate research assistant and teaching assistant in the [Micro-Nano Systems Engineering and Robotics Lab](https://lamnse.uark.edu/), under the mentorship of [Dr. Uche Wejinya](https://mechanical-engineering.uark.edu/Directory/index/uid/uwejinya/name/Uche+Wejinya/). -->
 
-My research interests are primarily focused on **automation, robotics, control system design, and mechatronic systems implementation.**
+I am a mechanical engineer with a strong background in mechanical design, control systems, and robotic systems integration. I hold a Ph.D. in Mechanical Engineering from the University of Arkansas, where my research focused on dynamic systems and advanced control strategies. There I served as a a graduate research assistant and teaching assistant in the [Micro-Nano Systems Engineering and Robotics Lab](https://lamnse.uark.edu/), under the mentorship of [Dr. Uche Wejinya](https://mechanical-engineering.uark.edu/Directory/index/uid/uwejinya/name/Uche+Wejinya/). 
+
+I previously earned my Master’s degree from the same institution, conducting research in the [Medical Robotics Lab](https://sites.gatech.edu/labbm2/) on robotic systems for minimally invasive surgery under the guidance of [Dr. Yue Chen](https://research.gatech.edu/yue-chen) (now at Georgia Tech). I also hold a Bachelor’s degree in Mechanical Engineering with a minor in Mathematics.
+
+Currently, I work as a Mechatronics Engineer at [Hillbot](https://www.hillbot.ai/), where I lead efforts in rapid prototyping, hardware development and maintenance, system identification, sensor calibration, and sim-to-real deployment for advanced mobile robotic platforms.
+
+My professional interests are primarily focused on **automation, robotics, control system design, and mechatronic systems implementation.**
 <br><br>
 
 # Engineering Experience
 <table style="border-collapse: collapse; border: none;">
   <tbody>
     <tr>
-      <td style="border: none;"><img src="/images/UA_Logo.png" alt="nu" width="80"></td>
-      <td style="border: none;"><strong>Micro-Nano Systems Engineering Robotics Lab</strong> <br> 01/2022 - present <br> Graduate Research & Teaching Assistant</td>
-      <td style="border: none;"><img src="/images/stokes_robotics_logo.jpeg" alt="j&j" width="80"></td>
-      <td style="border: none;"><strong>Stokes Robotics</strong> <br> 05/2024 - 08/2024 <br> Robotics Engineering Intern</td>
+      <td style="border: none; vertical-align: middle; text-align: center;">
+        <img src="/images/hillbot_logo.jpeg" alt="Hillbot Logo" width="60" style="display: block; margin: 0 auto;">
+      </td>
+      <td style="border: none; vertical-align: middle;">
+        <strong><a href="https://hillbot.ai" target="_blank" style="text-decoration: none; color: inherit;">Hillbot Inc.</a></strong><br>
+        01/2025 - Present <br> Mechatronics Engineer
+      </td>
     </tr>
     <tr>
-        <td style="border: none;"><img src="/images/UA_Logo.png" alt="nu" width="80"></td>
-      <td style="border: none;"><strong>Medical Robotics Lab</strong> <br> 05/2019 - 12/2021 <br> Graduate Research & Teaching Assistant</td>
+      <td style="border: none; vertical-align: middle; text-align: center;">
+        <img src="/images/UA_Logo.png" alt="UA Logo" width="70" style="display: block; margin: 0 auto;">
+      </td>
+      <td style="border: none; vertical-align: middle;">
+        <strong><a href="https://lamnse.uark.edu/" target="_blank" style="text-decoration: none; color: inherit;">Micro-Nano Systems Engineering & Robotics Lab</a></strong><br>
+        01/2022 - 12/2024 <br> Graduate Research & Teaching Assistant
+      </td>
+    </tr>
+    <tr>
+      <td style="border: none; vertical-align: middle; text-align: center;">
+        <img src="/images/stokes_robotics_logo.jpeg" alt="Stokes Robotics" width="70" style="display: block; margin: 0 auto;">
+      </td>
+      <td style="border: none; vertical-align: middle;">
+        <strong><a href="https://stokesrobotics.com/" target="_blank" style="text-decoration: none; color: inherit;">Stokes Robotics</a></strong><br>
+        05/2024 - 08/2024 <br> Robotics Engineering Intern
+      </td>
+    </tr>
+    <tr>
+      <td style="border: none; vertical-align: middle; text-align: center;">
+        <img src="/images/UA_Logo.png" alt="UA Logo" width="70" style="display: block; margin: 0 auto;">
+      </td>
+      <td style="border: none; vertical-align: middle;">
+        <strong><a href="https://sites.gatech.edu/labbm2/" target="_blank" style="text-decoration: none; color: inherit;">Medical Robotics Lab</a></strong><br>
+        05/2019 - 12/2021 <br> Graduate Research & Teaching Assistant
+      </td>
     </tr>
   </tbody>
 </table>
+
+
+
 
 
 <br>

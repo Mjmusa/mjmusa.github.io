@@ -8,7 +8,8 @@ date: 2018-08-12
 location: "Fayetteville, AR"
 ---
 ## University of Arkansas, Department of Mechanical Engineering
-### Graduate Teaching Assistant
+**Graduate Teaching Assistant**
+
 Responsibilities include instructing lab modules, managing assistant TA’s, giving substitute and guest lectures,
 grading reports, assignments, and exams.
 
