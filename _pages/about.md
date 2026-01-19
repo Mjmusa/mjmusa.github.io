@@ -13,7 +13,7 @@ I am a mechanical engineer with a strong background in mechanical design, contro
 
 I previously earned my Master’s degree from the same institution, conducting research in the [Medical Robotics Lab](https://sites.gatech.edu/labbm2/) on robotic systems for minimally invasive surgery under the guidance of [Dr. Yue Chen](https://research.gatech.edu/yue-chen) (now at Georgia Tech). I also hold a Bachelor’s degree in Mechanical Engineering with a minor in Mathematics.
 
-Currently, I work as a Mechatronics Engineer at [Hillbot](https://www.hillbot.ai/), where I lead efforts in rapid prototyping, hardware development and maintenance, system identification, sensor calibration, and sim-to-real deployment for advanced mobile robotic platforms.
+<!-- Currently, I work as a Robotics Engineer at [Analog Devices](https://www.analog.com/en/index.html), where I lead efforts in rapid prototyping, hardware development and maintenance, system identification, sensor calibration, and sim-to-real deployment for advanced mobile robotic platforms. -->
 
 My professional interests are primarily focused on **automation, robotics, control system design, and mechatronic systems implementation.**
 <br><br>
@@ -21,13 +21,22 @@ My professional interests are primarily focused on **automation, robotics, contr
 # Engineering Experience
 <table style="border-collapse: collapse; border: none;">
   <tbody>
+      <tr>
+      <td style="border: none; vertical-align: middle; text-align: center;">
+        <img src="/images/Analog-devices.jpg" alt="ADI Logo" width="60" style="display: block; margin: 0 auto;">
+      </td>
+      <td style="border: none; vertical-align: middle;">
+        <strong><a href="https://www.analog.com/en/index.html" target="_blank" style="text-decoration: none; color: inherit;">Analog Devices Inc.</a></strong><br>
+        10/2025 - Present <br> Senior Robotics Engineer
+      </td>
+    </tr>
     <tr>
       <td style="border: none; vertical-align: middle; text-align: center;">
         <img src="/images/hillbot_logo.jpeg" alt="Hillbot Logo" width="60" style="display: block; margin: 0 auto;">
       </td>
       <td style="border: none; vertical-align: middle;">
         <strong><a href="https://hillbot.ai" target="_blank" style="text-decoration: none; color: inherit;">Hillbot Inc.</a></strong><br>
-        01/2025 - Present <br> Mechatronics Engineer
+        01/2025 - 10/2025 <br> Mechatronics Engineer
       </td>
     </tr>
     <tr>
